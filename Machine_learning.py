@@ -45,7 +45,7 @@ st.subheader('🔎 Buscador de jugadores Euro 2020')
 st.write('Dado un jugador y su posición, se implementa un modelo de Machine Learning que nos permite conocer a 10 futbolistas con características similares durante la Euro 2020')
 
 df_datos_Euro2020=pd.read_csv('datos_Euro2020.csv')
-df_imagenes_Euro2020=pd.read_excel('fotografias.csv')
+df_imagenes_Euro2020=pd.read_excel("fotografias.xlsx", sheet_name='Hoja1')
 
 def path_to_image_html(path):
     return f'<img src="{path}" width="60" >'
