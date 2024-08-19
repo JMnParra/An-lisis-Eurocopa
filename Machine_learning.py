@@ -16,7 +16,7 @@ st.subheader(':soccer: Estudio y representación de las estadísticas de los jug
 st.write('Mapa virtual interactivo con el que podemos analizar todas las acciones de cualquier jugador en la Euro 2020')
 # Embed URL of the Power BI report
 # Replace this with your actual Power BI report embed URL
-embed_url = "https://app.powerbi.com/view?r=eyJrIjoiY2MwODFiZGQtNmVlZC00ZTNmLTgzMDctZmM5NjBlZjQxMDU1IiwidCI6ImJiYjEzOGJhLWZjMDYtNDM2ZS04ODhlLTAyYmVjMzFlYTIzYSIsImMiOjl9"
+embed_url = "https://app.powerbi.com/view?r=eyJrIjoiZDgyYmI4ZmUtZmMxYi00ZGI2LWI1ZGEtOGE5Y2YxNzViMmI2IiwidCI6ImJiYjEzOGJhLWZjMDYtNDM2ZS04ODhlLTAyYmVjMzFlYTIzYSIsImMiOjl9"
 
 
 # HTML code to embed Power BI report
